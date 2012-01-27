@@ -12,8 +12,7 @@ Cabal-Version:  >= 1.2
 Category:       Data Mining
 
 Library
-    Build-Depends:      haskell98
-                        , base >= 4 && < 5
+    Build-Depends:      base >= 4 && < 5
                         , layout >= 0.0.0.1
                         , hinduce-missingh >= 0.0.0.0
     Exposed-Modules:    Data.HInduce.Classifier

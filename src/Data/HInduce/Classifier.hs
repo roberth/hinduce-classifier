@@ -20,8 +20,8 @@ module Data.HInduce.Classifier
 import Control.Arrow
 import Data.HInduce.Classifier.Class
 import Data.List.HIUtils
+import Data.Ratio
 import Text.Layout
-import Ratio
 
 -- | A confusion matrix, represented sparsely as an association list.
 --
